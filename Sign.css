@@ -1,0 +1,19 @@
+* {
+    background-color:rgb(255, 243, 241);}
+
+#user_id{
+    font-size: small;
+    border-radius: 5px;
+
+}
+#user_pwd{
+    font-size: small;
+    border-radius: 5px;
+
+}
+
+#question{
+    font-size: small;
+    border-radius: 5px;
+
+}
